@@ -1,0 +1,10 @@
+{
+  "name": "ReactStarter",
+  "version": "1.0.0",
+  "description": "starter project for react - minimal with sass enabled",
+  "main": "index.js",
+  "repository": "https://github.com/sumitjoshi97/react_starter.git",
+  "author": "dev.sj",
+  "license": "MIT",
+  "private": false
+}

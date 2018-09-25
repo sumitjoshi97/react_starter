@@ -6,5 +6,9 @@
   "repository": "https://github.com/sumitjoshi97/react_starter.git",
   "author": "dev.sj",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
 }
